@@ -2,7 +2,9 @@
 """
 Created on Thu Nov 26 20:14:49 2015
 
-This script helps to extract article titles
+This script extracts journal article titles (as strings in a list) 
+by an author's name from PubMed.
+For a future use in a Markov Chain.
 
 @author: Barbora Doslikova
 """
